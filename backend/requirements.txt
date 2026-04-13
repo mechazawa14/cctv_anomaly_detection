@@ -1,0 +1,7 @@
+flask>=3.0
+flask-cors
+tensorflow>=2.16
+keras==3.10.0
+opencv-python-headless
+numpy
+gdown
